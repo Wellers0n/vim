@@ -1,7 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/coffee/Documents/MarvelAPI'
-let g:netrw_dirhist_2='/home/coffee/Documents/MarvelAPI/packages'
-let g:netrw_dirhist_3='/home/coffee/Documents/MarvelAPI/packages/Rmarvel'
-let g:netrw_dirhist_4='/home/coffee/Documents/MarvelAPI/packages'
-let g:netrw_dirhist_5='/home/coffee/Documents/MarvelAPI/packages/RNmarvel'
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/wellerson/Projects/ms_invoice/src/app/models/CollectionAction'
+let g:netrw_dirhist_4='/Users/wellerson/Projects/ms_invoice/src/app/models'
+let g:netrw_dirhist_3='/Users/wellerson/Projects/ms_invoice/src/app'
+let g:netrw_dirhist_2='/Users/wellerson/Projects/ms_invoice/src/app/services'
+let g:netrw_dirhist_1='/Users/wellerson/Projects/ms_invoice/src/app/services/slackService'

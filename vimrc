@@ -3,6 +3,7 @@
 " | General Settings                                                   |
 " ----------------------------------------------------------------------
 set noswf
+set autochdir
 set nocompatible               " Don't make vim vi-compatibile
 set nobackup
 syntax on                      " Enable syntax highlighting
