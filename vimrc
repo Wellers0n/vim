@@ -185,13 +185,12 @@ filetype on
 " Redefine trigger key for Emmet
 " http://docs.emmet.io/cheat-sheet/
 
-let g:user_emmet_leader_key='<C-\>'
 " - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 " Load custom Emmet snippets
 " http://docs.emmet.io/customization/snippets/
 
-
+let g:user_emmet_expandabbr_key = '<tab>'
 
 " ----------------------------------------------------------------------
 " | Plugins - Indent Guides                                            |
