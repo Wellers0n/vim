@@ -173,6 +173,7 @@ call vundle#begin('~/.vim/plugins')
     Plugin 'jparise/vim-graphql'
     Plugin 'isRuslan/vim-es6'
     Plugin 'leafgarland/typescript-vim'
+    Plugin 'elixir-editors/vim-elixir'
 call vundle#end()
 
 filetype on
